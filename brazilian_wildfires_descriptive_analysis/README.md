@@ -9,5 +9,5 @@ Sources found in python scripts
 ### Top 10 wildfire states
 ![image](output/top_10_states.png)
 ### Main states wildfire evolution
-![image](output/wildfire_main_states.png)
+![image](output/wildfires_main_states.png)
 
