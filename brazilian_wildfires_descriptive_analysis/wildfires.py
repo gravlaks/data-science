@@ -56,6 +56,7 @@ print(years.info())
 sns.lmplot(x="year", y="number", data=years, fit_reg=True)
 plt.title("Wildfire distribution by year")
 plt.savefig("output/wildfires_distribution_by_year.png")
+plt.tight_layout()
 
 plt.figure()
 months = df.groupby(["month"]).sum().reset_index()
@@ -74,6 +75,7 @@ top_10_states = df.groupby("state").sum().reset_index().sort_values(by="number",
 top_10_states.plot.bar(x="state", y="number")
 plt.title("Top 10 states by number of wildfires")
 plt.savefig("output/top_10_states.png")
+plt.gcf().subplots_adjust(bottom=0.25)
 
 
 #Line plots for wildfires per year for each state

@@ -2,6 +2,8 @@
 
 Sources found in python scripts
 
+Below are some **Examples**: 
+
 ### Wildfire distribution per month
 ![image](output/wildfires_distribution_by_month.png)
 ### Wildfire distribution per year
