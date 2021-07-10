@@ -4,6 +4,7 @@ File name: visualize_wildfires.py
 Creation Date: Sat 10 Jul 2021
 
 Description:
+    Dataset: https://www.kaggle.com/carlosparadis/fires-from-space-australia-and-new-zeland
 
 """
 
