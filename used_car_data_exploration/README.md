@@ -6,5 +6,5 @@ Dataset : https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 ### Price distribution per condition
 
-!image[](output/price_per_condition.png)
+![image](output/price_per_condition.png)
 
