@@ -2,5 +2,5 @@
 
 Data science projects with the purpose of practising data exploration, visualization and prediction.
 
-Results can be found subfolder READMEs. 
+Results can be found in subfolder READMEs. 
 
